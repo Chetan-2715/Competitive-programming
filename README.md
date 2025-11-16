@@ -1,4 +1,4 @@
-# CP / DS Lab Practicals – Python (Readme)
+# CP / DS Lab Practicals – Python
 
 This repository contains solutions for all 15 practicals from the CP/DS Lab Manual.
 All programs are written in Python and organized in Jupyter Notebook cell format.
