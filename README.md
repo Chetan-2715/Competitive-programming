@@ -739,11 +739,17 @@ The objective of this work is to help students understand core data structures a
 
 All programs are written in a simple, readable, and modular style to enhance learning and revision.
 
+---
+
 ## 👨‍💻 Author  
 Prepared by **Chetan 😎🔥**
 
+---
+
 ## 📚 Acknowledgment  
 This compilation is based on the concepts taught in the CP/DS Laboratory as per the syllabus and lab manual. Special thanks to the instructors and resources that guided the understanding of these fundamental concepts.
+
+---
 
 ## ⭐ End of README  
 Thank you for reading!  
