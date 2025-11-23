@@ -729,6 +729,8 @@ Effectively multiplies the number by 2 for each shift.
 Example:  
 `x << n` shifts bits of `x` left by `n` positions.
 
+---
+
 ## 📌 Final Notes
 
 This repository contains the complete set of programs and theoretical explanations for all 15 practicals covered in the CP/DS Laboratory syllabus. Each practical includes a clear aim, detailed theory, and corresponding Python implementations following the structure of the official lab manual.
